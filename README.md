@@ -1,2 +1,2 @@
 # bangalang
-Interpreter written in Javascript for experiment with language features.
+Interpreter written in Javascript for experimenting with language features.
